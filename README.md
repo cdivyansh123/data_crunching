@@ -1,6 +1,3 @@
-# data_crunching
-
-
 
 import csv
 
